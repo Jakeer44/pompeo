@@ -1,0 +1,198 @@
+navbar {
+    height: 20px;
+    width: 1000px;
+    background-color: rgb(182, 230, 98);
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#jakeer {
+    height: 500px;
+    width: 1270px;
+    background-color: rgb(162, 233, 253);
+    display: flex;
+}
+
+#one {
+height: 500px;
+width: 635px;
+text-align: center;
+}
+
+#one h1 {
+    color: black;
+    font-size: 50px;
+}
+
+#one h4 {
+    color: brown;
+    padding-top: 20px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#one h5 {
+    color: rgb(118, 44, 117);
+    font-size: 30px;
+}
+
+#one button {
+background-color: crimson;
+color: blanchedalmond;
+text-align: center;
+height: 60px;
+border-radius: 5%;
+}
+
+#shaik {
+height: 500px;
+width: 1250px;
+margin-left: 10px;
+margin-right: 10px;
+background-color: aliceblue;
+}
+
+#irfan {
+    display: flex;
+justify-content: space-between;
+}
+
+#shaik h3{
+text-align: center;
+color: blueviolet;
+}
+.aaa i {
+    margin-left: 95px;
+    margin-top: 80px;
+}
+
+.bbb i {
+    margin-left: 85px;
+    margin-top: 80px;
+}
+
+.ccc i {
+    margin-left: 85px;
+    margin-top: 80px;
+}
+#shaik h1 {
+text-align: center;
+
+
+}
+
+.aaa {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(234, 10, 10);
+}
+
+.ccc {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(207, 93, 93);
+}
+.bbb {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(160, 77, 209);
+}
+
+#para {
+height: 300px;
+width: 1250px;
+display: flex;
+justify-content: space-between;
+}
+
+.ddd {
+background-color: darkgrey;
+height: 300px;
+width: 620px;
+}
+
+.ddd h1{
+    color: blue;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.ddd p {
+font-size: 15px;
+justify-content: left;
+margin-left: 10px;
+}
+
+.eee {
+    background-color: rgb(213, 237, 241);
+    height: 300px;
+    width: 620px;
+    }
+    
+    .eee h1{
+        color: blue;
+        font-size: 40px;
+        margin-top: 20px;
+    }
+    
+    .eee p {
+    font-size: 15px;
+    justify-content: left;
+    margin-left: 10px;
+    }
+
+    #was {
+        height: 300px;
+        display: flex;
+        width: 1250px;
+        margin-left: 10px;
+        margin-right: 10px;
+        background-color: aliceblue;
+        }
+
+        .ggg h1{
+            color: blue;
+            font-size: 40px;
+            margin-top: 20px;
+        }
+
+        .ggg p {
+            font-size: 15px;
+            justify-content: left;
+            margin-left: 10px;
+            }
+
+            #ceramic {
+                height: 300px;
+                display: flex;
+                width: 1250px;
+                margin-left: 10px;
+                margin-right: 10px;
+                background-color: rgb(163, 179, 193);
+                }
+
+                .iii h1{
+                    color: blue;
+                    font-size: 40px;
+                    margin-top: 40px;
+                }
+                .iii p {
+                    font-size: 15px;
+                    justify-content: left;
+                    margin-left: 10px;
+                    }
+
+                    #container {
+                        height: 450px;
+                        display: flex;
+                        padding-top: 40px;
+                        justify-content: space-between;
+                        width: 1250px;
+                        margin-left: 10px;
+                        margin-right: 10px;
+                        background-color: rgb(247, 248, 249);
+                    }
+
